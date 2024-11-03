@@ -1,2 +1,1 @@
-# ltp02
-Trabalho 02 - Linguagem e Técnicas de Programação I
+Trabalho 01 - Linguagem e Técnicas de Programação I Alunas participantes: Fernanda Sagae Hiramoto - 22409565 Maria Luiza Oliveira Magarão - 22408637 Nicolle Kalinne Sousa Lima - 22400710
